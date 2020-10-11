@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="EmployeeInfo">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="EmployeeID" type="xs:int" minOccurs="0" />
+                <xs:element name="FirstName" type="xs:string" minOccurs="0" />
+                <xs:element name="Lastname" type="xs:string" minOccurs="0" />
+                <xs:element name="Address" type="xs:string" minOccurs="0" />
+                <xs:element name="Contact" type="xs:string" minOccurs="0" />
+                <xs:element name="DepartmentID" type="xs:int" minOccurs="0" />
+                <xs:element name="JobID" type="xs:int" minOccurs="0" />
+                <xs:element name="ImageFile" type="xs:string" minOccurs="0" />
+                <xs:element name="DepartmentName" type="xs:string" minOccurs="0" />
+                <xs:element name="JobTitle" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <EmployeeInfo>
+    <EmployeeID>2</EmployeeID>
+    <FirstName>Md.</FirstName>
+    <Lastname>Ontu Sarkar</Lastname>
+    <Address>Malibag, Dhaka</Address>
+    <Contact>01758-446898</Contact>
+    <DepartmentID>3</DepartmentID>
+    <JobID>1</JobID>
+    <ImageFile>~/Image/111.jpg</ImageFile>
+    <DepartmentName>Accounts Department</DepartmentName>
+    <JobTitle>Officer</JobTitle>
+  </EmployeeInfo>
+</NewDataSet>

@@ -1,0 +1,556 @@
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebApplicationAuthentication.dll.config
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebApplicationAuthentication.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebApplicationAuthentication.pdb
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csc.exe
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csc.exe.config
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csc.rsp
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csi.exe
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csi.exe.config
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csi.rsp
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.Managed.Core.targets
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.AppContext.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Collections.Immutable.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Console.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.Compression.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.FileSystem.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.Pipes.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Reflection.Metadata.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.AccessControl.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Claims.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Principal.Windows.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.ValueTuple.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.XmlDocument.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.XPath.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\vbc.exe
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\vbc.exe.config
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\vbc.rsp
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\VBCSCompiler.exe
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\VBCSCompiler.exe.config
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Antlr3.Runtime.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\AspNet.ScriptManager.bootstrap.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\AspNet.ScriptManager.jQuery.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.SqlServer.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Core.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Cookies.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Facebook.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Google.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.OAuth.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Twitter.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.ScriptManager.WebForms.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Web.Infrastructure.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Newtonsoft.Json.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Owin.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Optimization.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Providers.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebGrease.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Optimization.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Newtonsoft.Json.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Antlr3.Runtime.pdb
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.SqlServer.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Core.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Providers.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Facebook.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Cookies.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Google.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Twitter.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.OAuth.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.csproj.CoreCompileInputs.cache
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.csproj.CopyComplete
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.dll
+E:\AKRAM-RIAJ Round-41\Module 7\Web project\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.pdb
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebApplicationAuthentication.dll.config
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebApplicationAuthentication.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebApplicationAuthentication.pdb
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csc.exe
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csc.exe.config
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csc.rsp
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csi.exe
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csi.exe.config
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csi.rsp
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.Managed.Core.targets
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.AppContext.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Collections.Immutable.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Console.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.Compression.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.FileSystem.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.Pipes.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Reflection.Metadata.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.AccessControl.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Claims.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Principal.Windows.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.ValueTuple.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.XmlDocument.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.XPath.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\vbc.exe
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\vbc.exe.config
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\vbc.rsp
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\VBCSCompiler.exe
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\VBCSCompiler.exe.config
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Antlr3.Runtime.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\AspNet.ScriptManager.bootstrap.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\AspNet.ScriptManager.jQuery.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.SqlServer.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Core.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Cookies.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Facebook.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Google.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.OAuth.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Twitter.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.ScriptManager.WebForms.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Web.Infrastructure.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Newtonsoft.Json.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Owin.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Optimization.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Providers.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebGrease.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Optimization.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Newtonsoft.Json.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Antlr3.Runtime.pdb
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.SqlServer.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Core.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Providers.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Facebook.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Cookies.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Google.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Twitter.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.OAuth.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.csprojAssemblyReference.cache
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.csproj.CoreCompileInputs.cache
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.csproj.CopyComplete
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.dll
+G:\module 7-roject\Web project\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.pdb
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebApplicationAuthentication.dll.config
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebApplicationAuthentication.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebApplicationAuthentication.pdb
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Owin.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Providers.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Providers.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.csproj.CopyComplete
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.pdb
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.Shared.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.Web.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Administrator\Desktop\WebApplicationAuthentication\WebApplicationAuthentication\bin\stdole.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebApplicationAuthentication.dll.config
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebApplicationAuthentication.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebApplicationAuthentication.pdb
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csc.exe
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csc.exe.config
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csc.rsp
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csi.exe
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csi.exe.config
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csi.rsp
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.AppContext.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Console.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.Compression.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Claims.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.ValueTuple.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\vbc.exe
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\vbc.exe.config
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\vbc.rsp
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\VBCSCompiler.exe
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Antlr3.Runtime.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportSource.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.Shared.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.Web.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.SqlServer.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Newtonsoft.Json.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Owin.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Optimization.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Providers.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebGrease.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\stdole.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Optimization.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Newtonsoft.Json.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Antlr3.Runtime.pdb
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.SqlServer.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Providers.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.csproj.CopyComplete
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.dll
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.pdb
+C:\Users\C#\Desktop\Akram\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.csprojAssemblyReference.cache
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebApplicationAuthentication.dll.config
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebApplicationAuthentication.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebApplicationAuthentication.pdb
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csc.exe
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csc.exe.config
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csc.rsp
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csi.exe
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csi.exe.config
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\csi.rsp
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.Managed.Core.targets
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.AppContext.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Collections.Immutable.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Console.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.Compression.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.FileSystem.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.IO.Pipes.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Reflection.Metadata.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.AccessControl.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Claims.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Security.Principal.Windows.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.ValueTuple.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.XmlDocument.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.XPath.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\vbc.exe
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\vbc.exe.config
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\vbc.rsp
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\VBCSCompiler.exe
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\roslyn\VBCSCompiler.exe.config
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Antlr3.Runtime.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\AspNet.ScriptManager.bootstrap.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\AspNet.ScriptManager.jQuery.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.SqlServer.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Core.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Cookies.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Facebook.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Google.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.OAuth.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Twitter.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.ScriptManager.WebForms.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Web.Infrastructure.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Newtonsoft.Json.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Owin.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Optimization.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Providers.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\WebGrease.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\stdole.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Optimization.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Newtonsoft.Json.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Antlr3.Runtime.pdb
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\EntityFramework.SqlServer.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Core.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\System.Web.Providers.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Facebook.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Cookies.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Google.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.Twitter.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.Owin.Security.OAuth.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.csprojAssemblyReference.cache
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.csproj.CoreCompileInputs.cache
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.csproj.CopyComplete
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.dll
+G:\My Project\Akram\6.Akram-1252917\Asp.net\WebApplicationAuthentication\WebApplicationAuthentication\obj\Debug\WebApplicationAuthentication.pdb
